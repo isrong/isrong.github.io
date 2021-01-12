@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Janduynum</title>
+  
+  <subtitle>心若向阳，无畏悲伤</subtitle>
+  <link href="https://isrong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://isrong.github.io/"/>
+  <updated>2020-12-22T12:41:22.000Z</updated>
+  <id>https://isrong.github.io/</id>
+  
+  <author>
+    <name>Rong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="https://isrong.github.io/2020/12/22/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    <id>https://isrong.github.io/2020/12/22/%E5%85%B3%E4%BA%8E%E6%88%91/</id>
+    <published>2020-12-22T12:41:21.000Z</published>
+    <updated>2020-12-22T12:41:22.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
