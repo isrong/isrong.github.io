@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://isrong.github.io/2021/02/13/%E6%83%85%E4%BA%BA%E8%8A%82%E5%BF%AB%E4%B9%90/</loc>
-    
-    <lastmod>2021-02-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://isrong.github.io/2021/01/28/%E6%83%B3%E6%8A%8A%E6%88%91%E5%94%B1%E7%BB%99%E4%BD%A0%E5%90%AC/</loc>
-    
-    <lastmod>2021-02-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://isrong.github.io/2012/02/13/you-and-me/</loc>
     
     <lastmod>2021-01-27</lastmod>
@@ -25,7 +11,7 @@
 
   <url>
     <loc>https://isrong.github.io/</loc>
-    <lastmod>2021-02-13</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
